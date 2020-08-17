@@ -16,7 +16,7 @@ public class TrialController : MonoBehaviour
     private static int condition;
     private static int TrialNumber;
     private static int TotalTrialNumber;
-    private static string[][] TrialVariableCross; // 2x2    use array of array, not use multiarray - private static int[,] TrialVariable;
+    // private static string[][] TrialVariableCross; // 2x2    use array of array, not use multiarray - private static int[,] TrialVariable;    initialize in "LoadNewScene.cs"
     private static float[] GapWidths;
     private static string FOV;
     private static string Direction;
@@ -48,7 +48,8 @@ public class TrialController : MonoBehaviour
         TotalTrialNumber = 0; // [0]1-96
         TrialNumber = 0; // 0-23
         InitiateGapWidths();
-        InitiateTrialVariable();
+
+        //InitiateTrialVariable(); // TrialVariableCross has been initialized in StartScene
     }
 
     void Start()
@@ -64,6 +65,10 @@ public class TrialController : MonoBehaviour
         {
             if (TotalTrialNumber > 96)
             {
+                //send data to google form(Sample code), each time finishing the experiment(96 trials)
+                var Data = Log_Control.readStringFromFile(Log_Control.fileName);
+                StartCoroutine(Log_Control.Post(Data));
+
                 StartCoroutine(WaitAndQuit(4.0f));
             }
         }
@@ -84,12 +89,12 @@ public class TrialController : MonoBehaviour
         // Variable FOV : HoloLens [first variable == HoloLens]
         // Variable Direction : 0  [second variable == Direction0]
         // Variable Direction : 90 [second variable == Direction90]
-        TrialVariableCross = new string[4][];
-        TrialVariableCross[0] = new string[2] { "Natural", "Direction0" };
-        TrialVariableCross[1] = new string[2] { "HoloLens", "Direction0" };
-        TrialVariableCross[2] = new string[2] { "Natural", "Direction90" };
-        TrialVariableCross[3] = new string[2] { "HoloLens", "Direction90" };
-        TrialVariableCross = RandomizeArrayT<string[]>(TrialVariableCross);
+        LoadNewScene.TrialVariableCross = new string[4][];
+        LoadNewScene.TrialVariableCross[0] = new string[2] { "Natural", "Direction0" };
+        LoadNewScene.TrialVariableCross[1] = new string[2] { "HoloLens", "Direction0" };
+        LoadNewScene.TrialVariableCross[2] = new string[2] { "Natural", "Direction90" };
+        LoadNewScene.TrialVariableCross[3] = new string[2] { "HoloLens", "Direction90" };
+        LoadNewScene.TrialVariableCross = RandomizeArrayT<string[]>(LoadNewScene.TrialVariableCross);
     }
 
     private void InitiateGapWidths()
@@ -226,10 +231,12 @@ public class TrialController : MonoBehaviour
     {
         if ((TotalTrialNumber-1)%24 == 0)
         {
+            //Randomize Gapwidth in each of the 4 blocks
+            GapWidths = RandomizeArray(GapWidths); 
+
             Log_Control.logToFile(System.Environment.NewLine);
-            FOV = TrialVariableCross[condition][0];
-            Direction = TrialVariableCross[condition][1];
-            //if(TotalTrialNumber == 25 || TotalTrialNumber == 49 || TotalTrialNumber == 73)
+            FOV = LoadNewScene.TrialVariableCross[condition][0];
+            Direction = LoadNewScene.TrialVariableCross[condition][1];
             condition++; // initial==0  0-3
         }
         if (TotalTrialNumber == 0)

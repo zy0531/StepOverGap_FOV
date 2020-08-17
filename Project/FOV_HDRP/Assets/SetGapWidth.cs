@@ -17,16 +17,6 @@ public class SetGapWidth : MonoBehaviour
         
     }
 
-    // Update is called once per frame
-    //void Update()
-    //{
-    //    if (Input.GetKeyDown(KeyCode.Space) || SteamVR_Input.GetAction<SteamVR_Action_Boolean>("GrabPinch").GetStateDown(handType))
-    //    {
-    //        float CurrentGapWidth = TrialController.GetCurrentGapWidth();
-    //        Gap.transform.localScale = new Vector3(CurrentGapWidth, Gap.transform.localScale.y, Gap.transform.localScale.z);
-    //        Gap.transform.position = new Vector3((StartGapPosX - StartGapScaleX/2 + CurrentGapWidth/2), Gap.transform.position.y, Gap.transform.position.z);
-    //    }
-    //}
 
     public void _SetGapWidth()
     {
