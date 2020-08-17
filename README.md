@@ -10,6 +10,6 @@
  In each condition, 24 trials with gap changing from 0.45 to 1.50 with 0.15 increments (for a total of 8 gaps, 3x each)
  
  ## How to run
-To run this project, you can choose Windows build or Mac build according to your OS. You need a Vive HMD, one controller and two foot trackers.
+To run this project, you can choose Windows build or Mac build according to your OS. You need a Vive HMD and one controller.
 
 
