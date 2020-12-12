@@ -1,0 +1,795 @@
+8/19/2020 4:04:31 PM
+Name/ID:  YangQi
+Age:  26
+Gender:  Male
+Height:  1.88
+Eye Height:  1.77
+Leg Length:  1.10
+Max Stride:  1.22
+Condition 1:  HoloLens x Direction0
+Condition 2:  HoloLens x Direction90
+Condition 3:  Natural x Direction0
+Condition 4:  Natural x Direction90
+VRScene Start
+
+
+8/19/2020 4:08:22 PM
+TotalTrialNumber:1
+TrialNumber:0
+FOV:HoloLens
+Direction:Direction0
+GapWidths:0.9
+Yes
+
+8/19/2020 4:09:27 PM
+TotalTrialNumber:2
+TrialNumber:1
+FOV:HoloLens
+Direction:Direction0
+GapWidths:1.35
+No
+
+8/19/2020 4:09:46 PM
+TotalTrialNumber:3
+TrialNumber:2
+FOV:HoloLens
+Direction:Direction0
+GapWidths:0.9
+Yes
+
+8/19/2020 4:09:55 PM
+TotalTrialNumber:4
+TrialNumber:3
+FOV:HoloLens
+Direction:Direction0
+GapWidths:1.5
+No
+
+8/19/2020 4:10:06 PM
+TotalTrialNumber:5
+TrialNumber:4
+FOV:HoloLens
+Direction:Direction0
+GapWidths:1.5
+No
+
+8/19/2020 4:10:23 PM
+TotalTrialNumber:6
+TrialNumber:5
+FOV:HoloLens
+Direction:Direction0
+GapWidths:1.35
+No
+
+8/19/2020 4:10:32 PM
+TotalTrialNumber:7
+TrialNumber:6
+FOV:HoloLens
+Direction:Direction0
+GapWidths:1.2
+No
+
+8/19/2020 4:10:48 PM
+TotalTrialNumber:8
+TrialNumber:7
+FOV:HoloLens
+Direction:Direction0
+GapWidths:1.5
+No
+
+8/19/2020 4:10:55 PM
+TotalTrialNumber:9
+TrialNumber:8
+FOV:HoloLens
+Direction:Direction0
+GapWidths:0.9
+Yes
+
+8/19/2020 4:11:02 PM
+TotalTrialNumber:10
+TrialNumber:9
+FOV:HoloLens
+Direction:Direction0
+GapWidths:0.75
+Yes
+
+8/19/2020 4:11:14 PM
+TotalTrialNumber:11
+TrialNumber:10
+FOV:HoloLens
+Direction:Direction0
+GapWidths:1.05
+Yes
+
+8/19/2020 4:11:22 PM
+TotalTrialNumber:12
+TrialNumber:11
+FOV:HoloLens
+Direction:Direction0
+GapWidths:1.35
+Yes
+
+8/19/2020 4:11:29 PM
+TotalTrialNumber:13
+TrialNumber:12
+FOV:HoloLens
+Direction:Direction0
+GapWidths:1.05
+Yes
+
+8/19/2020 4:11:36 PM
+TotalTrialNumber:14
+TrialNumber:13
+FOV:HoloLens
+Direction:Direction0
+GapWidths:1.2
+Yes
+
+8/19/2020 4:11:46 PM
+TotalTrialNumber:15
+TrialNumber:14
+FOV:HoloLens
+Direction:Direction0
+GapWidths:0.75
+Yes
+
+8/19/2020 4:11:55 PM
+TotalTrialNumber:16
+TrialNumber:15
+FOV:HoloLens
+Direction:Direction0
+GapWidths:0.6
+Yes
+
+8/19/2020 4:12:02 PM
+TotalTrialNumber:17
+TrialNumber:16
+FOV:HoloLens
+Direction:Direction0
+GapWidths:0.45
+Yes
+
+8/19/2020 4:12:07 PM
+TotalTrialNumber:18
+TrialNumber:17
+FOV:HoloLens
+Direction:Direction0
+GapWidths:0.45
+Yes
+
+8/19/2020 4:12:11 PM
+TotalTrialNumber:19
+TrialNumber:18
+FOV:HoloLens
+Direction:Direction0
+GapWidths:0.45
+Yes
+
+8/19/2020 4:12:16 PM
+TotalTrialNumber:20
+TrialNumber:19
+FOV:HoloLens
+Direction:Direction0
+GapWidths:1.05
+Yes
+
+8/19/2020 4:12:21 PM
+TotalTrialNumber:21
+TrialNumber:20
+FOV:HoloLens
+Direction:Direction0
+GapWidths:0.6
+Yes
+
+8/19/2020 4:12:25 PM
+TotalTrialNumber:22
+TrialNumber:21
+FOV:HoloLens
+Direction:Direction0
+GapWidths:0.75
+Yes
+
+8/19/2020 4:12:30 PM
+TotalTrialNumber:23
+TrialNumber:22
+FOV:HoloLens
+Direction:Direction0
+GapWidths:1.2
+No
+
+8/19/2020 4:12:36 PM
+TotalTrialNumber:24
+TrialNumber:23
+FOV:HoloLens
+Direction:Direction0
+GapWidths:0.6
+Yes
+
+
+
+8/19/2020 4:12:40 PM
+TotalTrialNumber:25
+TrialNumber:0
+FOV:HoloLens
+Direction:Direction90
+GapWidths:1.05
+Yes
+
+8/19/2020 4:12:50 PM
+TotalTrialNumber:26
+TrialNumber:1
+FOV:HoloLens
+Direction:Direction90
+GapWidths:0.6
+Yes
+
+8/19/2020 4:12:57 PM
+TotalTrialNumber:27
+TrialNumber:2
+FOV:HoloLens
+Direction:Direction90
+GapWidths:1.35
+No
+
+8/19/2020 4:13:02 PM
+TotalTrialNumber:28
+TrialNumber:3
+FOV:HoloLens
+Direction:Direction90
+GapWidths:1.05
+Yes
+
+8/19/2020 4:13:09 PM
+TotalTrialNumber:29
+TrialNumber:4
+FOV:HoloLens
+Direction:Direction90
+GapWidths:1.5
+No
+
+8/19/2020 4:13:14 PM
+TotalTrialNumber:30
+TrialNumber:5
+FOV:HoloLens
+Direction:Direction90
+GapWidths:0.75
+Yes
+
+8/19/2020 4:13:19 PM
+TotalTrialNumber:31
+TrialNumber:6
+FOV:HoloLens
+Direction:Direction90
+GapWidths:0.9
+Yes
+
+8/19/2020 4:13:27 PM
+TotalTrialNumber:32
+TrialNumber:7
+FOV:HoloLens
+Direction:Direction90
+GapWidths:1.5
+No
+
+8/19/2020 4:13:34 PM
+TotalTrialNumber:33
+TrialNumber:8
+FOV:HoloLens
+Direction:Direction90
+GapWidths:0.6
+Yes
+
+8/19/2020 4:13:39 PM
+TotalTrialNumber:34
+TrialNumber:9
+FOV:HoloLens
+Direction:Direction90
+GapWidths:0.75
+Yes
+
+8/19/2020 4:13:43 PM
+TotalTrialNumber:35
+TrialNumber:10
+FOV:HoloLens
+Direction:Direction90
+GapWidths:0.45
+Yes
+
+8/19/2020 4:13:47 PM
+TotalTrialNumber:36
+TrialNumber:11
+FOV:HoloLens
+Direction:Direction90
+GapWidths:1.2
+No
+
+8/19/2020 4:13:53 PM
+TotalTrialNumber:37
+TrialNumber:12
+FOV:HoloLens
+Direction:Direction90
+GapWidths:1.2
+No
+
+8/19/2020 4:13:59 PM
+TotalTrialNumber:38
+TrialNumber:13
+FOV:HoloLens
+Direction:Direction90
+GapWidths:0.9
+Yes
+
+8/19/2020 4:14:04 PM
+TotalTrialNumber:39
+TrialNumber:14
+FOV:HoloLens
+Direction:Direction90
+GapWidths:1.2
+No
+
+8/19/2020 4:14:09 PM
+TotalTrialNumber:40
+TrialNumber:15
+FOV:HoloLens
+Direction:Direction90
+GapWidths:1.35
+No
+
+8/19/2020 4:14:14 PM
+TotalTrialNumber:41
+TrialNumber:16
+FOV:HoloLens
+Direction:Direction90
+GapWidths:0.75
+Yes
+
+8/19/2020 4:14:18 PM
+TotalTrialNumber:42
+TrialNumber:17
+FOV:HoloLens
+Direction:Direction90
+GapWidths:0.45
+Yes
+
+8/19/2020 4:14:23 PM
+TotalTrialNumber:43
+TrialNumber:18
+FOV:HoloLens
+Direction:Direction90
+GapWidths:1.5
+No
+
+8/19/2020 4:14:29 PM
+TotalTrialNumber:44
+TrialNumber:19
+FOV:HoloLens
+Direction:Direction90
+GapWidths:1.35
+No
+
+8/19/2020 4:14:34 PM
+TotalTrialNumber:45
+TrialNumber:20
+FOV:HoloLens
+Direction:Direction90
+GapWidths:0.45
+Yes
+
+8/19/2020 4:14:39 PM
+TotalTrialNumber:46
+TrialNumber:21
+FOV:HoloLens
+Direction:Direction90
+GapWidths:0.9
+Yes
+
+8/19/2020 4:14:43 PM
+TotalTrialNumber:47
+TrialNumber:22
+FOV:HoloLens
+Direction:Direction90
+GapWidths:0.6
+Yes
+
+8/19/2020 4:14:47 PM
+TotalTrialNumber:48
+TrialNumber:23
+FOV:HoloLens
+Direction:Direction90
+GapWidths:1.05
+Yes
+
+
+
+8/19/2020 4:14:51 PM
+TotalTrialNumber:49
+TrialNumber:0
+FOV:Natural
+Direction:Direction0
+GapWidths:1.35
+Yes
+
+8/19/2020 4:15:00 PM
+TotalTrialNumber:50
+TrialNumber:1
+FOV:Natural
+Direction:Direction0
+GapWidths:1.05
+Yes
+
+8/19/2020 4:15:03 PM
+TotalTrialNumber:51
+TrialNumber:2
+FOV:Natural
+Direction:Direction0
+GapWidths:1.05
+Yes
+
+8/19/2020 4:15:11 PM
+TotalTrialNumber:52
+TrialNumber:3
+FOV:Natural
+Direction:Direction0
+GapWidths:0.45
+Yes
+
+8/19/2020 4:15:14 PM
+TotalTrialNumber:53
+TrialNumber:4
+FOV:Natural
+Direction:Direction0
+GapWidths:1.2
+No
+
+8/19/2020 4:15:18 PM
+TotalTrialNumber:54
+TrialNumber:5
+FOV:Natural
+Direction:Direction0
+GapWidths:0.9
+Yes
+
+8/19/2020 4:15:20 PM
+TotalTrialNumber:55
+TrialNumber:6
+FOV:Natural
+Direction:Direction0
+GapWidths:1.5
+No
+
+8/19/2020 4:15:22 PM
+TotalTrialNumber:56
+TrialNumber:7
+FOV:Natural
+Direction:Direction0
+GapWidths:0.45
+Yes
+
+8/19/2020 4:15:26 PM
+TotalTrialNumber:57
+TrialNumber:8
+FOV:Natural
+Direction:Direction0
+GapWidths:0.45
+Yes
+
+8/19/2020 4:15:29 PM
+TotalTrialNumber:58
+TrialNumber:9
+FOV:Natural
+Direction:Direction0
+GapWidths:0.6
+Yes
+
+8/19/2020 4:15:35 PM
+TotalTrialNumber:59
+TrialNumber:10
+FOV:Natural
+Direction:Direction0
+GapWidths:0.9
+Yes
+
+8/19/2020 4:15:43 PM
+TotalTrialNumber:60
+TrialNumber:11
+FOV:Natural
+Direction:Direction0
+GapWidths:1.05
+Yes
+
+8/19/2020 4:15:47 PM
+TotalTrialNumber:61
+TrialNumber:12
+FOV:Natural
+Direction:Direction0
+GapWidths:0.6
+Yes
+
+8/19/2020 4:15:51 PM
+TotalTrialNumber:62
+TrialNumber:13
+FOV:Natural
+Direction:Direction0
+GapWidths:1.35
+No
+
+8/19/2020 4:15:53 PM
+TotalTrialNumber:63
+TrialNumber:14
+FOV:Natural
+Direction:Direction0
+GapWidths:1.2
+No
+
+8/19/2020 4:16:04 PM
+TotalTrialNumber:64
+TrialNumber:15
+FOV:Natural
+Direction:Direction0
+GapWidths:0.75
+Yes
+
+8/19/2020 4:16:12 PM
+TotalTrialNumber:65
+TrialNumber:16
+FOV:Natural
+Direction:Direction0
+GapWidths:1.5
+No
+
+8/19/2020 4:16:14 PM
+TotalTrialNumber:66
+TrialNumber:17
+FOV:Natural
+Direction:Direction0
+GapWidths:1.5
+No
+
+8/19/2020 4:16:16 PM
+TotalTrialNumber:67
+TrialNumber:18
+FOV:Natural
+Direction:Direction0
+GapWidths:0.75
+Yes
+
+8/19/2020 4:16:18 PM
+TotalTrialNumber:68
+TrialNumber:19
+FOV:Natural
+Direction:Direction0
+GapWidths:0.6
+Yes
+
+8/19/2020 4:16:21 PM
+TotalTrialNumber:69
+TrialNumber:20
+FOV:Natural
+Direction:Direction0
+GapWidths:0.75
+Yes
+
+8/19/2020 4:16:23 PM
+TotalTrialNumber:70
+TrialNumber:21
+FOV:Natural
+Direction:Direction0
+GapWidths:1.2
+Yes
+
+8/19/2020 4:16:26 PM
+TotalTrialNumber:71
+TrialNumber:22
+FOV:Natural
+Direction:Direction0
+GapWidths:1.35
+No
+
+8/19/2020 4:16:31 PM
+TotalTrialNumber:72
+TrialNumber:23
+FOV:Natural
+Direction:Direction0
+GapWidths:0.9
+Yes
+
+
+
+8/19/2020 4:16:34 PM
+TotalTrialNumber:73
+TrialNumber:0
+FOV:Natural
+Direction:Direction90
+GapWidths:0.45
+No
+
+8/19/2020 4:16:38 PM
+TotalTrialNumber:74
+TrialNumber:1
+FOV:Natural
+Direction:Direction90
+GapWidths:1.2
+No
+
+8/19/2020 4:16:44 PM
+TotalTrialNumber:75
+TrialNumber:2
+FOV:Natural
+Direction:Direction90
+GapWidths:1.5
+No
+
+8/19/2020 4:16:47 PM
+TotalTrialNumber:76
+TrialNumber:3
+FOV:Natural
+Direction:Direction90
+GapWidths:1.2
+No
+
+8/19/2020 4:16:48 PM
+TotalTrialNumber:77
+TrialNumber:4
+FOV:Natural
+Direction:Direction90
+GapWidths:1.05
+Yes
+
+8/19/2020 4:16:50 PM
+TotalTrialNumber:78
+TrialNumber:5
+FOV:Natural
+Direction:Direction90
+GapWidths:1.35
+No
+
+8/19/2020 4:16:57 PM
+TotalTrialNumber:79
+TrialNumber:6
+FOV:Natural
+Direction:Direction90
+GapWidths:0.45
+Yes
+
+8/19/2020 4:16:58 PM
+TotalTrialNumber:80
+TrialNumber:7
+FOV:Natural
+Direction:Direction90
+GapWidths:0.6
+Yes
+
+8/19/2020 4:17:00 PM
+TotalTrialNumber:81
+TrialNumber:8
+FOV:Natural
+Direction:Direction90
+GapWidths:1.05
+Yes
+
+8/19/2020 4:17:02 PM
+TotalTrialNumber:82
+TrialNumber:9
+FOV:Natural
+Direction:Direction90
+GapWidths:1.5
+No
+
+8/19/2020 4:17:05 PM
+TotalTrialNumber:83
+TrialNumber:10
+FOV:Natural
+Direction:Direction90
+GapWidths:0.75
+Yes
+
+8/19/2020 4:17:09 PM
+TotalTrialNumber:84
+TrialNumber:11
+FOV:Natural
+Direction:Direction90
+GapWidths:0.45
+Yes
+
+8/19/2020 4:17:11 PM
+TotalTrialNumber:85
+TrialNumber:12
+FOV:Natural
+Direction:Direction90
+GapWidths:0.9
+Yes
+
+8/19/2020 4:17:13 PM
+TotalTrialNumber:86
+TrialNumber:13
+FOV:Natural
+Direction:Direction90
+GapWidths:0.75
+Yes
+
+8/19/2020 4:17:16 PM
+TotalTrialNumber:87
+TrialNumber:14
+FOV:Natural
+Direction:Direction90
+GapWidths:1.35
+No
+
+8/19/2020 4:17:17 PM
+TotalTrialNumber:88
+TrialNumber:15
+FOV:Natural
+Direction:Direction90
+GapWidths:0.6
+Yes
+
+8/19/2020 4:17:19 PM
+TotalTrialNumber:89
+TrialNumber:16
+FOV:Natural
+Direction:Direction90
+GapWidths:0.75
+Yes
+
+8/19/2020 4:17:21 PM
+TotalTrialNumber:90
+TrialNumber:17
+FOV:Natural
+Direction:Direction90
+GapWidths:1.35
+No
+
+8/19/2020 4:17:23 PM
+TotalTrialNumber:91
+TrialNumber:18
+FOV:Natural
+Direction:Direction90
+GapWidths:0.9
+Yes
+
+8/19/2020 4:17:25 PM
+TotalTrialNumber:92
+TrialNumber:19
+FOV:Natural
+Direction:Direction90
+GapWidths:1.5
+No
+
+8/19/2020 4:17:26 PM
+TotalTrialNumber:93
+TrialNumber:20
+FOV:Natural
+Direction:Direction90
+GapWidths:1.2
+Yes
+
+8/19/2020 4:17:29 PM
+TotalTrialNumber:94
+TrialNumber:21
+FOV:Natural
+Direction:Direction90
+GapWidths:0.9
+Yes
+
+8/19/2020 4:17:30 PM
+TotalTrialNumber:95
+TrialNumber:22
+FOV:Natural
+Direction:Direction90
+GapWidths:1.05
+Yes
+
+8/19/2020 4:17:32 PM
+TotalTrialNumber:96
+TrialNumber:23
+FOV:Natural
+Direction:Direction90
+GapWidths:0.6
+Yes
+
+
+
+
+
+
+
